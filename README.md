@@ -1,1 +1,2 @@
 # CV_retinanet_csv
+为了使用torch.optim，你需要构建一个optimizer对象。这个对象能够保持当前参数状态并基于计算得到的梯度进行参数更新。
