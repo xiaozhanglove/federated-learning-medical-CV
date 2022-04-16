@@ -1,7 +1,5 @@
 # CV_retinanet_csv
-为了使用torch.optim，你需要构建一个optimizer对象。这个对象能够保持当前参数状态并基于计算得到的梯度进行参数更新。
-
-
+the code was rub through jupyter,and the form of annotations is csv
 _pickle.UnpicklingError: unpickling stack underflow
 fix:delete the cache
 1./home/user/.cache/torch/checkpoints
